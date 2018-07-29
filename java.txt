@@ -5,3 +5,6 @@ class
 
 OOPs concept 
 incepsulation in java
+
+OOps 
+polimorpisama
