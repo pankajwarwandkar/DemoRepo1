@@ -2,3 +2,6 @@ java file
 
 object 
 class
+
+OOPs concept 
+incepsulation in java
