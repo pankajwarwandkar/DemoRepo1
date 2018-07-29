@@ -8,3 +8,7 @@ incepsulation in java
 
 OOps 
 polimorpisama
+
+
+OOps 
+inharitence 
